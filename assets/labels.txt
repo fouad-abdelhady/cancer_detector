@@ -1,0 +1,4 @@
+0 Negative
+1 Positive
+2 ImplantNegative
+3 ImplantPositive

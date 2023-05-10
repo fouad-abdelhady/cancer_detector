@@ -17,7 +17,7 @@ class ScreensRouter {
             builder: (_) => const SplashScreen(), settings: settings);
       case HomeScreen.PAGE_ROUTE:
         return MaterialPageRoute(
-            builder: (_) => const HomeScreen(), settings: settings);
+            builder: (_) => HomeScreen(), settings: settings);
       case LoginScreen.PAGE_ROUTE:
         return MaterialPageRoute(
             builder: (_) => const LoginScreen(), settings: settings);
